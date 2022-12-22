@@ -14,7 +14,7 @@ This is a pretty ambitous project which means having a plan and some design work
 
 | Name of process | Rough Progess in Percentage | Date Started | Date Finished | Link to specific plan | 
 | --- | --- | --- | --- | --- |
-| Research/Design | 5% | 12/08/2022 | **NF** | none |
+| Research/Design | 5% | 12/08/2022 | **NF** | [R&D Plan](Docs/Plans/research_design_plan.md) |
 | Implentation of the multiplayer core | 0% | **NS** | **NF** | none |
 | Creating a minimum version of the modding tools | 0% | **NS** | **NF** | none |
 | Creating and implementing all necessary additions | 0% | **NS** | **NF** | none |

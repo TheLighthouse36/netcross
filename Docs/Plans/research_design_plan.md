@@ -1,0 +1,13 @@
+# Research/Design
+- Research
+    - [ ] Technologies and strategies available for networked multiplayer games
+    - [ ] The Crosscode codebase and how the internal structure works
+- Design
+    - [ ] The Network Architecture
+    - [ ] The SDK
+        - [ ] Modder API
+        - [ ] Internal engine additions
+        - [ ] Tech Stack
+    - [ ] The modding tools
+        - [ ] Multiplayer mapping tool
+        - [ ] Server Monitoring tool

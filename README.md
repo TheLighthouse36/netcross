@@ -1,5 +1,18 @@
 # crossnetcode
-This is a [WIP] mod for crosscode to allow networked multiplayer. This project will probably take anywhere from 1-3 years (from Decemeber 8th, 2022) before actual results start happening, due to the sheer size and scope of said project, but progress can be tracked here.
+This is a [WIP] SDK for crosscode to allow networked multiplayer and the development for multiplayer content. This project will probably take anywhere from 2-5 years (from Decemeber 8th, 2022) 
+
+I have reached out to RadicalFish, and their stance was "As long as people will require to own a copy of CrossCode when using your mod we're pretty much fine with everything", however that is not set in stone and can change at any time. I'm just showing this to show some level of Devloper approval.
+
+## Intetions and Considerations
+This project is going to require a lot of rewriting and reworking of the orginal game code. I want to be very clear that to use this you will need to purchase a copy of crosscode. I will not be releasing any of the assets of the orginal game, nor will I release any modified versions of assets. The only things that are allowed in this repository are orginal things (Source Code, Assets, etc) that I have written or Other Contributors and have written and I (or other authorized person) have approved.
+
+This project will never be used to make money, none of this will ever be monetized. I may spend some money to hire some help with art assets or with the code, but that will come from my own personal money. I don't want money from this project and never will. If you have money to spend either buy crosscode or support the game/devs in some way. 
+
+If it any point the Developers, Publishers, or Majority of the Users of Crosscode want me to stop with this project I will immediately delete this repository and any other means of distribution without hesitation.
+
+I have utmost respect for the Developers and Community of this game, but I understand that Intentions don't always reflect actions, so I want to be as transparent as possible, so If I'm reworking code that was in the orginal game I will annotate that. I will make sure credit is given where credit is due.
+
+I hope you believe in this as much as I do, because I think this could be a ton of fun and I think could be the foundation for something amazing, but not at the cost of stepping on other people.
 
 ## Planned Features
 crosscode-multiplayer is a modding framework that will allow for the development of multiplayer content in crosscode. The exact details are currently unknown but that is the intention.
@@ -14,7 +27,8 @@ This is a pretty ambitous project which means having a plan and some design work
 
 | Name of process | Rough Progess in Percentage | Date Started | Date Finished | Link to specific plan | 
 | --- | --- | --- | --- | --- |
-| Research/Design | 5% | 12/08/2022 | **NF** | [R&D Plan](Docs/Plans/research_design_plan.md) |
+| Research/Design | 1% | 12/08/2022 | **NF** | [R&D Plan](Docs/Plans/research_design_plan.md) |
+| Rewrite Of Codebase | 0% | **NS** | **NF** | none |
 | Implentation of the multiplayer core | 0% | **NS** | **NF** | none |
 | Creating a minimum version of the modding tools | 0% | **NS** | **NF** | none |
 | Creating and implementing all necessary additions | 0% | **NS** | **NF** | none |

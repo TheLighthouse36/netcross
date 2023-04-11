@@ -7,7 +7,7 @@ This section has any tech/tools related to networking tech
   - The backbone of how connection is actually going to work
 
 ## Tech Stack
-this is related to any tools/tech used on the techstack
+this is related to any tools/tech used on the tech stack
 - [Elixir](https://elixir-lang.org)/[Erlang](https://www.erlang.org)
   - this is the language that the server will be written in and I'm using it because I think it is suited for this kind of netcode in games. There are some cases of it being used, but it isn't hugely popular. If I need to change it I will.
 - [C++](https://cplusplus.com)
@@ -22,6 +22,8 @@ this is related to any tools/tech used on the techstack
   - an elixir library that interfaces Elixir and Javascript
 - [Membrane](https://membrane.stream)
   - an elixir library to allow the use of WebRTC Data Channels
+- [Zig]
+  - a low level programming language will be teh primary low level code
 
 ## Prototype tools
 Any tool that is/was used in the protoyping phase will be included here

@@ -1,10 +1,14 @@
 # Crosscode Notes
 This will contain all my notes about the Crosscode Codebase and how it Works
 
-## Modules
-This section holds high level knowledge about each module and the relavent bits from them
 
-- **Window.ig**: This seems to be the fudamental module that interacts with your computer
+## High level notes
+Creating a mod for a game that's already been made is quite difficult. One of the main reasons for that is that it's already built as a singleplayer game. So the process would be to understand how the game was made and architected in the first place, and then recreating a compatible architecture with an emphasis on moddability and multiplayer.
+
+## Modules
+This section holds high level knowledge about each module and the relaxant bits from them:
+
+- **Window.ig**: This seems to be the fundamental module that interacts with your computer
 - **Impact.base.worker**: This seems to be for multi-threading where you give a worker *tasks* and it can run it's *tasks* and send messages
 - **Impact.base.loader**: Defines Cacheables and Loadables, and is in charge of maintaing the Cache
 - **Impact.base.image**: Base code for handling images, including the loading, drawing and updating along with helper functions
